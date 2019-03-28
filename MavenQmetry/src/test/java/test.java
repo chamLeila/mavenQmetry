@@ -8,5 +8,8 @@ class test {
 	void test() {
 		fail("Not yet implemented");
 	}
-
+	@Test
+	void test1() {
+		fail("Not yet implemented");
+	}
 }
